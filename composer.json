@@ -1,0 +1,20 @@
+{
+  "name": "apprendre-php/eval-poo",
+  "description": "Evaluation du module POO",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "William",
+      "email": "work@suppo.fr"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
